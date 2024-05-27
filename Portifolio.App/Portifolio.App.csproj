@@ -160,4 +160,8 @@
       <None Include="wwwroot\assets\scss\style.scss" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".github\workflows\main.yml" />
+    </ItemGroup>
+
 </Project>
